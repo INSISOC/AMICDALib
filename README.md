@@ -1,5 +1,5 @@
 # AMICDALib - Additive Manufacturing Iterative Combinatorial Double Auctions Library
-This repository provides resources for benchmarking algorithms related to Iterative Combinatorial Double Auctions (ICADs) applied to Additive Manufacturing.  
+This repository provides resources for the benchmarking of algorithms related to Iterative Combinatorial Double Auctions (ICADs) applied to distributed Additive Manufacturing markets.  
   
 It includes:
 - Test instances in (.txt) format.
