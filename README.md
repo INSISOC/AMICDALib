@@ -1,10 +1,9 @@
-# MPSP Benchmarking Repository
-This repository provides resources for benchmarking algorithms related to the Multi-Project Scheduling Problem (MPSP).  
+# AMICDALib - Additive Manufacturing Iterative Combinatorial Double Auctions Library
+This repository provides resources for benchmarking algorithms related to Iterative Combinatorial Double Auctions (ICADs) applied to Additive Manufacturing.  
   
 It includes:
-- Test instances in Microsoft Project™ (.mpp) format.
-- VBA macro modules and ribbon customisation files for Microsoft Project™.
-- Documentation and installation guides to support reproducibility and academic experimentation.
+- Test instances in (.txt) format.
+- Documentation guides to support reproducibility and academic experimentation.
  
 ## Publication
 This repository accompanies the article:  
