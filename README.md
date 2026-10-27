@@ -2,8 +2,9 @@
 This repository provides resources for the benchmarking of algorithms related to Iterative Combinatorial Double Auctions (ICADs) applied to distributed Additive Manufacturing markets.  
   
 It includes:
-- Test instances in (.txt) format.
-- Documentation guides to support reproducibility and academic experimentation.
+- 1.620 Training instances in (.txt) format.
+- 90 Benchmark instances in (.txt) format.
+- Documentation guides to support reproducibility and academic experimentation (Soon...).
  
 ## Publication
 This repository accompanies the article:  
