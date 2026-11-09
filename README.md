@@ -10,6 +10,16 @@ It includes:
 This repository accompanies the article:  
 - Soon...
 
+## Citation
+If you use these instances in your research, please also cite the original source:  
+- Soon...
+  
+## Funding
+This work is part of the **ABAMCA project (PID2022-137948OA-I00)**, funded by **MCIN/AEI/10.13039/501100011033** and by **FEDER, UE**.
+
+## Contact
+For questions or academic collaboration, please contact: david.poza@uva.es
+
 ## Licence
 All contents of this repository are released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** licence.
 
@@ -23,9 +33,3 @@ This means you are free to:
 
 Full licence text: **[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)**
 
-## Citation
-If you use these instances in your research, please also cite the original source:  
-- Soon...
-
-## Contact
-For questions or academic collaboration, please contact: david.poza@uva.es
