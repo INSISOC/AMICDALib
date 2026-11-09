@@ -35,3 +35,6 @@ This means you are free to:
 
 Full licence text: **[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)**
 
+## Other repositories linked to this project
+- **[ABAMCA](https://github.com/INSISOC/ABAMCA)**
+- **[ABAMCA_UI](https://github.com/INSISOC/ABAMCA_UI)**
