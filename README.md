@@ -16,6 +16,7 @@ If you use these instances in your research, please also cite the original sourc
   
 ## Funding
 This work is part of the **ABAMCA project (PID2022-137948OA-I00)**, funded by **MCIN/AEI/10.13039/501100011033** and by **FEDER, UE**.
+The objective of the <a href="https://www.insisoc.uva.es/index.php/ins-abamca-home/" target="_blank">**ABAMCA project**</a> is to apply combinatorial auctions and agent-based modeling methodologies to develop a platform that reduces the current imbalance between supply and demand in the additive manufacturing market for subcomponents.
 
 ## Contact
 For questions or academic collaboration, please contact: david.poza@uva.es
